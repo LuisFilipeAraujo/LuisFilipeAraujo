@@ -27,4 +27,6 @@
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![]()
+
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFilipeAraujo&hide=jupyter%20notebook&layout=compact&theme=transparent)](https://github.com/LuisFilipeAraujo/github-readme-stats)
