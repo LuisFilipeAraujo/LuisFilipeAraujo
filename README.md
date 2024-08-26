@@ -1,8 +1,8 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-filipe-alves-araujo/) 
 
 ### Hi, I'm Luis Araujo 👋
-### FrontEnd Developer in ascension 👨‍💻🚀
-### Currently learning React ❄️ and Node.js
+### Developer in ascension 👨‍💻🚀
+### Currently learning React ❄️, Node.js and JAVA
 ### Love UX concepts ❤️🎨
 ### Will power. Let's go! 💻
 
