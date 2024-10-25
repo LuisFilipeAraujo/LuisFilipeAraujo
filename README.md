@@ -2,6 +2,7 @@
 
 ### Hi, I'm Luis Araujo 👋
 ### Developer in ascension 👨‍💻🚀
+### Cybersecurity lover 🔒
 ### Currently learning React ❄️, Node.js and JAVA
 ### Love UX concepts ❤️🎨
 ### Will power. Let's go! 💻
